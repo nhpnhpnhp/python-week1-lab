@@ -1,0 +1,14 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+.venv/
+
+# Bỏ qua file cấu hình của PyCharm
+.idea/
+
+# Bỏ qua file bytecode của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua các file log thực tế (nhưng giữ file mẫu nếu muốn)
+# Trong bài này ta sẽ ignore các file log lỗi sinh ra khi chạy
+pipeline_error.log

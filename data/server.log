@@ -1,0 +1,7 @@
+INFO:User1 login success
+ERROR:Database connection failed
+INFO:User2 login success
+WARNING:High memory usage
+ERROR:Timeout connecting to API
+INVALID_LINE_WITHOUT_COLON
+INFO:User3 logout
